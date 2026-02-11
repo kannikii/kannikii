@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kwon Hyeong Lee
+# 👋 Hello, I'm Kwon Hyeong Lee  
 
 ### 🚀 Tech Stack  
 
@@ -32,6 +32,13 @@
 
 ---
 
+### 🔍 Interested in  
+
+[Strudel REPL](https://strudel.cc)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+---
+
 ### 📬 Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kwnnh0124@dgu.ac.kr)  
-
+```
