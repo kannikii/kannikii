@@ -21,7 +21,6 @@
 
 #### 🔐 Version Control & Collaboration  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)  
-![Subversion](https://img.shields.io/badge/Subversion-809CC9.svg?&style=for-the-badge&logo=Subversion&logoColor=white)  
 
 #### 🛠 IDEs & Tools  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)  
@@ -30,11 +29,6 @@
 
 ### 🏆 Problem Solving (BOJ)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwnnh0124)](https://solved.ac/kwnnh0124/)  
-
----
-
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannikii&show_icons=true&theme=radical)  
 
 ---
 
