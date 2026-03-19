@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Kwon Hyeong Lee
-### https://kannikii.github.io/
+### https://kannikii.github.io/ 
+### (Work in progress)
 ### 🚀 Tech Stack  
 
 #### 🔧 Back-end  
