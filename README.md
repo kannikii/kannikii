@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Kwon Hyeong Lee
-### Links
+### 👀 Links
 #### https://kannikii.github.io/   (Work in progress)
 #### https://velog.io/@kannikii/posts
 
