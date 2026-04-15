@@ -49,9 +49,6 @@
 ### 💡 Interested in  
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
-  <a href="https://strudel.cc/">
-    <img src="https://img.shields.io/badge/Strudel%20REPL-0F172A?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
 
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
