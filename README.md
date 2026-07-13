@@ -56,7 +56,7 @@
 ### 🏆 Problem Solving (BOJ)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwnnh0124)](https://solved.ac/kwnnh0124/)
 
-![Programmers Badge](https://raw.githubusercontent.com/kannikii/Programmers_Badge_Generator/main/result/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/kanikii/Programmers_Badge_Generator/main/result/result.svg)
 
 ---
 
