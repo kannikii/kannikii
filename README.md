@@ -73,8 +73,8 @@
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/SQLD-003545.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/정보처리기사-2E7D32.svg?&style=for-the-badge&logo=CheckMarx&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/프로그래밍기능사-455A64.svg?&style=for-the-badge&logo=CodeFactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect--Associate-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/프로그래밍기능사-455A64.svg?&style=for-the-badge&logo=CodeFactor&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect--Associate-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> -->
 </div>
 
 
