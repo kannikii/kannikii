@@ -53,11 +53,14 @@
 
 ---
 
-### 🏆 Problem Solving (BOJ)  
+### 🏆 Problem Solving 
+
+#### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwnnh0124)](https://solved.ac/kwnnh0124/)
 
-
-![Programmers Badge](https://raw.githubusercontent.com/kannikii/Programmers_Badge_Generator/main/result/result.svg?v=2)
+#### Programmers
+![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/3a3340a4e19a.svg)
+<!-- ![Programmers Badge](https://raw.githubusercontent.com/kannikii/Programmers_Badge_Generator/main/result/result.svg?v=2) -->
  
 ---
 
