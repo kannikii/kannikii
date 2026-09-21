@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Kwon Hyeong Lee
 ### 👀 Links
 #### https://kannikii.github.io/  
-#### https://velog.io/@kannikii/posts
 
 ### 🚀 Tech Stack  
 
