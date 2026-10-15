@@ -60,7 +60,12 @@
 #### Programmers
 ![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/3a3340a4e19a.svg)
 <!-- ![Programmers Badge](https://raw.githubusercontent.com/kannikii/Programmers_Badge_Generator/main/result/result.svg?v=2) -->
- 
+#### CodeTree
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-dark.svg">
+  <img alt="CodeTree 학습 현황" src="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-light.svg">
+</picture>
+
 ---
 
 ### 💡 Interested in  
