@@ -61,10 +61,12 @@
 ![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/3a3340a4e19a.svg)
 <!-- ![Programmers Badge](https://raw.githubusercontent.com/kannikii/Programmers_Badge_Generator/main/result/result.svg?v=2) -->
 #### CodeTree
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-dark.svg">
-  <img alt="CodeTree 학습 현황" src="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-light.svg">
-</picture>
+<a href="https://velog.io/@kannikii/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-%ED%95%99%EC%8A%B5-%ED%8A%B8%EB%9E%98%ED%82%B9-%EB%B0%B0%EC%A7%80-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-dark.svg">
+    <img alt="CodeTree 학습 현황" src="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-light.svg">
+  </picture>
+</a>
 
 ---
 
