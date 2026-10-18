@@ -55,7 +55,8 @@
 ### 🏆 Problem Solving 
 
 #### BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwnnh0124)](https://solved.ac/kwnnh0124/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwnnh0124)](https://solved.ac/kwnnh0124/)-->
+<img width="350" height="170" alt="image" src="https://github.com/user-attachments/assets/391dc750-2f40-4c8d-93d2-edf85f97929b" />
 
 #### Programmers
 ![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/3a3340a4e19a.svg)
