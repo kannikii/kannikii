@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white" />
+<!--  <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white" /> -➔
 </div>
 
 #### 🌐 Front-end  
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Railway-0B0D0E.svg?&style=for-the-badge&logo=Railway&logoColor=white" />
 </div>
 
-#### 🔐 Version Control & Collaboration  
+<!-- #### 🔐 Version Control & Collaboration  
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" />
 </div>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
 </div>
-
+-->
 ---
 
 ### 🏆 Problem Solving 
