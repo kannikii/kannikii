@@ -75,7 +75,9 @@
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
 
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />-->
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div>
 
 ### 📜 Certifications  
