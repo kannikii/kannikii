@@ -1,6 +1,10 @@
 # 👋 Hello, I'm Kwon Hyeong Lee
 ### 👀 Links
-#### https://kannikii.github.io/  
+- ##### 포트폴리오 사이트 : https://kannikii.github.io/  
+- ##### UMC 10th 팀 프로젝트 (단기 공간 임대 플랫폼) : https://popit.co.kr/
+- ##### Google Developers Group of Campus 팀 프로젝트 (여행 패키지 AI 결제 서비스) : https://trupass.online/
+- ##### 캡스톤 디자인 팀 프로젝트 (의료 이미지 AI 진단 처방 보조 EMR 서비스): https://artifact-prod.duckdns.org/
+---
 
 ### 🚀 Tech Stack  
 
