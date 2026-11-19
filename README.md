@@ -1,107 +1,75 @@
+<div align="center">
+
 # 👋 Hello, I'm Kwon Hyeong Lee
-### 👀 Links
-- ##### 포트폴리오 사이트 : https://kannikii.github.io/  
-- ##### UMC 10th 팀 프로젝트 (단기 공간 임대 플랫폼) : https://popit.co.kr/
-- ##### Google Developers Group of Campus 팀 프로젝트 (여행 패키지 AI 결제 서비스) : https://trupass.online/
-- ##### 캡스톤 디자인 팀 프로젝트 (의료 이미지 AI 진단 처방 보조 EMR 서비스): https://artifact-prod.duckdns.org/
----
 
-### 🚀 Tech Stack  
+**Backend · Cloud Engineer** — Spring Boot · FastAPI로 서버를 만들고, Docker · AWS로 운영합니다.
 
-#### 🔧 Back-end  
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring-Boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black" />
-<!--  <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white" /> -->
-</div>
-
-#### 🌐 Front-end  
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />
-</div>
-
-#### 🧠 Programming Languages  
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-</div>
-
-#### ☁️ Infrastructure & Deployment
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7.svg?&style=for-the-badge&logo=Render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E.svg?&style=for-the-badge&logo=Railway&logoColor=white" />
-</div>
-
-<!-- #### 🔐 Version Control & Collaboration  
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" />
-</div>
-
-#### 🛠 IDEs & Tools  
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
-</div>
--->
----
-
-### 🏆 Problem Solving 
-
-#### BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwnnh0124)](https://solved.ac/kwnnh0124/)
-<!-- <img width="350" height="170" alt="image" src="https://github.com/user-attachments/assets/391dc750-2f40-4c8d-93d2-edf85f97929b" />-->
-
-#### Programmers
-![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/3a3340a4e19a.svg)
-<!-- ![Programmers Badge](https://raw.githubusercontent.com/kannikii/Programmers_Badge_Generator/main/result/result.svg?v=2) -->
-#### CodeTree
-<a href="https://velog.io/@kannikii/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-%ED%95%99%EC%8A%B5-%ED%8A%B8%EB%9E%98%ED%82%B9-%EB%B0%B0%EC%A7%80-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-dark.svg">
-    <img alt="CodeTree 학습 현황" src="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-light.svg">
-  </picture>
-</a>
-
----
-
-### 💡 Interested in  
-
-<div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
-
-  <!--<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />-->
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-</div>
-
-### 📜 Certifications  
-
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-  <img src="https://img.shields.io/badge/SQLD-003545.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/정보처리기사-2E7D32.svg?&style=for-the-badge&logo=CheckMarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/프로그래밍기능사-455A64.svg?&style=for-the-badge&logo=CodeFactor&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect--Associate-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> -->
-</div>
-
-
-### 🏆 Awards
-- **2026** |  너디너리 페스티벌 연합동아리 UMC(University Makeus Challenge) 10th **대상**
-- **2026** |  In-Jeju Challenge 사물인터넷 혁신융합대학사업단 **최우수상 총장상** 
-- **2026** |  WITHUS 프로젝트 경진대회 (S.M.A.R.T 토너먼트) **최우수상**
-- **2025** |  동국대학교 오픈소스프로젝트 경진대회 **장려상**
-
----
-
-### 📬 Contact  
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kwnnh0124@dgu.ac.kr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kannikii.github.io-111111?style=flat-square&logo=githubpages&logoColor=white)](https://kannikii.github.io/)
+[![Velog](https://img.shields.io/badge/Velog-@kannikii-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@kannikii)
+[![Gmail](https://img.shields.io/badge/Gmail-kwnnh0124@dgu.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kwnnh0124@dgu.ac.kr)
 ![Discord](https://img.shields.io/badge/Discord-kwnnh0124-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+</div>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🎓 Education & Activities
+- `2024 – 2027.02` **동국대학교 컴퓨터AI학부** (졸업 예정)
+- `2026.03 – 08` **UMC 10th** · Spring Boot 파트 수료
+- `2026.09 –` **GDGoC** · Google Developer Groups on Campus
+- `2026.10 –` **AWS SBG** · AWS Student Builder Group
+
+</td>
+<td valign="top" width="50%">
+
+#### 🏆 Awards & Certifications
+- `2026` UMC 10th 너디너리 페스티벌 **대상**
+- `2026` In-Jeju Challenge **최우수상 (총장상)**
+- `2026` WITHUS S.M.A.R.T 토너먼트 **최우수상**
+- `2025` 동국대 오픈소스프로젝트 경진대회 **장려상**
+- 📜 정보처리기사 · SQLD · 프로그래밍기능사
+
+</td>
+</tr>
+</table>
+
+### 🛠 Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**POP-IT**](https://popit.co.kr/) | 빈 상업 공간 × 팝업스토어 예약·계약·정산 플랫폼 · UMC 10th 대상 | Spring Boot · MySQL · AWS |
+| [**Artifact**](https://artifact-prod.duckdns.org/) | 피부 병변 이미지 AI 진단·처방 보조 EMR · 캡스톤 산학협력 | Spring Boot · FastAPI · MySQL |
+| [**TruPass**](https://trupass.online/) | 여행 패키지 AI 결제 서비스 · GDGoC 팀 프로젝트 | Spring Boot · React · [AP2](https://github.com/google-agentic-commerce/AP2) |
+
+### 🚀 Tech Stack
+
+| | |
+| :-- | :-- |
+| **Back-end** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) |
+
+### 🧩 Problem Solving
+
+<table>
+<tr>
+<td align="center"><b>BOJ</b><br/>
+<a href="https://solved.ac/kwnnh0124/"><img width="260" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwnnh0124" alt="solved.ac"/></a>
+</td>
+<td align="center"><b>Programmers</b><br/>
+<img width="260" src="https://api.programmers-badge.jh8459.com/badge/3a3340a4e19a.svg" alt="Programmers"/>
+</td>
+<td align="center"><b>CodeTree</b><br/>
+<a href="https://velog.io/@kannikii/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-%ED%95%99%EC%8A%B5-%ED%8A%B8%EB%9E%98%ED%82%B9-%EB%B0%B0%EC%A7%80-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-dark.svg">
+<img width="260" alt="CodeTree 학습 현황" src="https://raw.githubusercontent.com/kannikii/CodeTree_badge_generator/output/codetree-light.svg">
+</picture>
+</a>
+</td>
+</tr>
+</table>
