@@ -42,7 +42,7 @@
 | Project | Description | Stack |
 | :-- | :-- | :-- |
 | [**POP-IT**](https://popit.co.kr/) | 빈 상업 공간 × 팝업스토어 예약·계약·정산 플랫폼 · UMC 10th 대상 | Spring Boot · MySQL · AWS |
-| [**Artifact**](https://artifact-prod.duckdns.org/) | 피부 병변 이미지 AI 진단·처방 보조 EMR · 캡스톤 산학협력 | Spring Boot · FastAPI · MySQL |
+| [**Artifact**](https://artifact-medical.site/) | 피부 병변 이미지 AI 진단·처방 보조 EMR · 캡스톤 산학협력 | Spring Boot · FastAPI · MySQL |
 | [**TruPass**](https://trupass.online/) | 여행 패키지 AI 결제 서비스 · GDGoC 팀 프로젝트 | Spring Boot · React · [AP2](https://github.com/google-agentic-commerce/AP2) |
 
 ### 🚀 Tech Stack
